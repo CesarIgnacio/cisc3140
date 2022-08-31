@@ -1,0 +1,8 @@
+
+TERMINAL: It is a text interface where you can directly enter commands to your computer.
+        retrieved from: https://www.youtube.com/watch?v=H6XZH9kFrFc&ab_channel=WindowsDeveloper
+
+DevOps: Devellopment and Operations. It is a collection or shared approach to the tasks performed by a company's application 
+    devellopment and IT aperations team. Is is a philosophy that promotes better communications and collaboration.
+        retrieved from: https://www.techtarget.com/searchitoperations/definition/DevOps
+

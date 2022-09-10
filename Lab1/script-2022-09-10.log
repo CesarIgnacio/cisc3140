@@ -1,0 +1,29 @@
+Script started on 2022-09-10 15:24:31-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="91" LINES="30"]
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1# mkdir -p d [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kd
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1# ls
+[0m[01;32mLab1.java[0m  [01;32mNotes.txt[0m  [34;42md[0m  [01;32mscript-2022-09-10.log[0m  [01;32mtime-2022-09-10.txt[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1# mv Notes.t xt d/Notes.txt
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1# cp Lab1.ja va d/Lab1.java
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1# ls
+[0m[01;32mLab1.java[0m  [34;42md[0m  [01;32mscript-2022-09-10.log[0m  [01;32mtime-2022-09-10.txt[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1# cd d
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1/droot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1/d# ls
+[0m[01;32mLab1.java[0m  [01;32mNotes.txt[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1/droot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1/d# mv Lab1. t[Kjava ../Lab1.java
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1/droot@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1/d# cd ../
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1# ls
+[0m[01;32mLab1.java[0m  [34;42md[0m  [01;32mscript-2022-09-10.log[0m  [01;32mtime-2022-09-10.txt[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1# javac Lab1 .java
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1# ls
+[0m[01;32mLab1.class[0m  [01;32mLab1.java[0m  [34;42md[0m  [01;32mscript-2022-09-10.log[0m  [01;32mtime-2022-09-10.txt[0m
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1# java Lab1
+Time remaining til due dates:
+
+Lab1: 00 months, 18 days, 00 hours, and 04 minutes.
+Lab2: 01 months, 16 days, 00 hours, and 04 minutes.
+Lab3: 02 months, 13 days, 00 hours, and 04 minutes.
+Lab4: 02 months, 27 days, 00 hours, and 04 minutes.
+]0;root@DESKTOP-E8ASCDM: /mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1root@DESKTOP-E8ASCDM:/mnt/c/Users/cesar/Desktop/Web App CISC 3140/cisc3140/Lab1# exti[K[Kit
+exit
+
+Script done on 2022-09-10 15:26:47-04:00 [COMMAND_EXIT_CODE="0"]

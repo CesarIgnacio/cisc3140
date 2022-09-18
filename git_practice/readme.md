@@ -3,18 +3,16 @@ This directory only contains a readme.md file. This directory is part of a class
 
 ## Organization
 My repository has 2 main directories:
-	1. Lab1
-	2. git_practice
-
+1. Lab1
+2. git_practice
 Lab1 contains the following files:
-	- Lab1.class
-	- Lab1.java
-	- Notes.txt
-	- script.log
-	- time.txt
-
+- Lab1.class
+- Lab1.java
+- Notes.txt
+- script.log
+- time.txt
 git_practice contains only one file:
-	- readme.md (this file)
+- readme.md (this file)
 
 ## Technilogies
 - Operating System: Windows 11 Home

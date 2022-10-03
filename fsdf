@@ -1,0 +1,66 @@
+[33mcommit 3f539421c50b49464850087228843f54d202ebf2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: César <66285504+CesarIgnacio@users.noreply.github.com>
+Date:   Sat Sep 17 21:55:57 2022 -0400
+
+    Update readme.md
+
+[33mcommit 7fecc63f15b13b9749bbf0e951b4c44f65539f05[m
+Author: César <66285504+CesarIgnacio@users.noreply.github.com>
+Date:   Sat Sep 17 21:54:32 2022 -0400
+
+    Update readme.md
+
+[33mcommit e6151c87d616c85f46c0422d1b76554f1133240c[m
+Author: César <66285504+CesarIgnacio@users.noreply.github.com>
+Date:   Sat Sep 17 21:53:40 2022 -0400
+
+    Update readme.md
+
+[33mcommit ee637c3230a41d10e6c684fdd2ac6dc50174dcd9[m
+Author: root <root@DESKTOP-E8ASCDM.localdomain>
+Date:   Sat Sep 17 21:51:15 2022 -0400
+
+    Adding readme.md file
+
+[33mcommit 5211dd0c66df882a746eb7043a1835c3131583af[m
+Author: César <66285504+CesarIgnacio@users.noreply.github.com>
+Date:   Sat Sep 17 21:37:15 2022 -0400
+
+    Create .gitkeep
+
+[33mcommit 478a249ff034ae208396fe67eb3dc1b40702c6a7[m
+Author: César <66285504+CesarIgnacio@users.noreply.github.com>
+Date:   Sat Sep 17 21:36:42 2022 -0400
+
+    Delete .gitkeep
+
+[33mcommit 261b0d59311ac1ad6f51d579caa3124360dc05ad[m
+Author: César <66285504+CesarIgnacio@users.noreply.github.com>
+Date:   Sat Sep 17 21:36:04 2022 -0400
+
+    Create .gitkeep
+
+[33mcommit a0ec6eae05c03bf71fed681ca76c078107bc10d9[m
+Author: root <root@DESKTOP-E8ASCDM.localdomain>
+Date:   Sat Sep 17 21:31:36 2022 -0400
+
+    Removing folder git_practice
+
+[33mcommit b53747d39fc433e49c88d3b056e66d6bb8936629[m
+Merge: b4c9851 69e4ec7
+Author: root <root@DESKTOP-E8ASCDM.localdomain>
+Date:   Sat Sep 17 21:24:52 2022 -0400
+
+    Merge branch 'main' of github.com:CesarIgnacio/cisc3140 into main
+
+[33mcommit b4c985107eab5e6ba08a86265d7f00e2551f0e3c[m
+Author: root <root@DESKTOP-E8ASCDM.localdomain>
+Date:   Sat Sep 17 21:18:23 2022 -0400
+
+    Adding new directory to the repository
+
+[33mcommit 69e4ec7dafcaf8caceaf7a98824c2e6e8cc3058a[m
+Author: César <66285504+CesarIgnacio@users.noreply.github.com>
+Date:   Thu Sep 15 20:35:23 2022 -0400
+
+    update content

@@ -8,6 +8,6 @@ read path
 line=$(find -mindepth 1 -type d | wc -l)
 
 echo Number of directories: $line
-cd d1
-mkdir cesar
-rm -d cesar
+
+
+
